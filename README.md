@@ -3,16 +3,16 @@
 *(totally didnt copy what github gave me)*
 
 - 🔭 I’m currently working on
-  - My Discord Bot, "Akiyama" (close source for now)
+  - My Discord Bot, "Akiyama" (close source for now) [MORE INFO](https://github.com/TheAlan404/akiyama-docs)
   - nmp-player
   - nbs.js
-  - Plasma Client - [turkish site](https://plasma-client.glitch.me/) (will be open source soon)
+  - Plasma Client - [repo](https://github.com/TheAlan404/plasma-client) (rewrite WIP) / [turkish site](https://plasma-client.glitch.me/) (outdated)
 - 🌱 I’m currently learning
   - NodeJS
 - 👯 I’m looking to collaborate on
   - Anywhere, really :3
 - 🤔 I’m looking for help with
-  - nmp-player (the video conversion is pain)
+  - anything really
 - 📫 How to reach me:
   - Discord: `Dennis_#3272` // `258638629839175681`
   - Telegram (not that active): `t.me/TheDennis`
