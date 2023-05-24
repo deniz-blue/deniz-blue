@@ -1,6 +1,6 @@
 Hey! I'm dennis. (she/her)
 
-🖥️ Dev @ [LCTR](https://discord.gg/lctr) (Turkish)
+i suck at writing a profile readme so just get to know me over discord?
 
 
 
@@ -18,6 +18,7 @@ Contact:
 
 Some projects:
 
+  - [mcman](https://github.com/ParadigmMC/mcman) : Minecraft server manager that allows you to efficiently use git for your server files and makes your life easier by downloading jars etc
   - [string-commands](https://github.com/TheAlan404/string-commands) : Command handler library in JS with custom argument parsing and more (npm)
   - [lighttube-react](https://github.com/thealan404/lighttube-react) : An experiment i did to make a "better" frontend for lighttube
 
