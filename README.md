@@ -13,7 +13,7 @@ Full stack developer:
 
 
 Contact:
-- Discord: [`Dennis_#3272`](https://discord.com/users/258638629839175681)
+- Discord: [`@dennisunderscore`](https://discord.com/users/258638629839175681)
 
 
 Some projects:
