@@ -14,4 +14,4 @@ Hey! I'm dennis. (she/her)
   Powerful Minecraft Server Manager CLI
 
 > **Note**
-> Most of my projects are.. unfinished. Attention (people using my stuff) kinda fuels me lol
+> Most of my projects are.. unfinished. People using my stuff fuels me :3
