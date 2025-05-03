@@ -1,13 +1,21 @@
-### Hi! I'm Gökçe Deniz, or Dennis
+# [![88x31](https://deniz.blue/assets/88x31v0.png)](https://deniz.blue) [deniz.blue](https://deniz.blue) ✨🌸
 
-I solve problems or issues using code I guess
-- Currently working on: 📅 [Deniz's Events Site](https://events.deniz.blue), ✨ [My personal site/Portfolio](https://deniz.blue)
-- I mainly use React with TypeScript
-- I like meeting new people, hit me up with anything!
+- Currently working on:
+  - ⚛️ [discord-jsx-renderer](https://github.com/deniz-blue/discordjsx)
+  - 📅 [events.deniz.blue](https://events.deniz.blue)
+  - ✨ [deniz.blue](https://deniz.blue)
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheAlan404&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=deniz-blue&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAlan404&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniz-blue&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
+-->
+
+[![Discord](https://img.shields.io/discord/1197520507617153064?logo=discord)](https://deniz.blue/discord-invite?id=1197520507617153064)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/deniz-blue)
+![GitHub followers](https://img.shields.io/github/followers/deniz-blue)
+![GitHub User's stars](https://img.shields.io/github/stars/deniz-blue)
+
