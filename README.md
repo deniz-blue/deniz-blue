@@ -15,7 +15,8 @@
 -->
 
 [![Discord](https://img.shields.io/discord/1197520507617153064?logo=discord)](https://deniz.blue/discord-invite?id=1197520507617153064)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/deniz-blue)
-![GitHub followers](https://img.shields.io/github/followers/deniz-blue)
-![GitHub User's stars](https://img.shields.io/github/stars/deniz-blue)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/deniz-blue?style=flat&logo=github)](https://github.com/sponsors/deniz-blue/)
+[![GitHub followers](https://img.shields.io/github/followers/deniz-blue?style=flat&logo=github
+)](https://github.com/deniz-blue)
+[![GitHub User's stars](https://img.shields.io/github/stars/deniz-blue?style=flat&logo=github)](https://github.com/deniz-blue)
 
