@@ -1,9 +1,20 @@
 # [![88x31](https://deniz.blue/assets/88x31v0.png)](https://deniz.blue) [deniz.blue](https://deniz.blue) ✨🌸
 
 - Currently working on:
+  - 🗂️ [protodef-ts](https://github.com/deniz-blue/protodef-ts)
+  - 🎦 [FFMPEG Editor](https://github.com/deniz-blue/ffmpeg-editor)
+- Featured Projects:
   - ⚛️ [discord-jsx-renderer](https://github.com/deniz-blue/discordjsx)
+  - 📦 [mcman](https://github.com/ParadigmMC/mcman)
+  - 📅 [events.deniz.blue](https://events.deniz.blue)
+  - 🌐 [react-localization](https://github.com/deniz-blue/react-localization)
+
+<!--
   - 📅 [events.deniz.blue](https://events.deniz.blue)
   - ✨ [deniz.blue](https://deniz.blue)
+-->
+
+
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
