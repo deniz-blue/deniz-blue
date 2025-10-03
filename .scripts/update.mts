@@ -23,7 +23,7 @@ let content = [
 
 const readmeContents = readFileSync("README.md").toString();
 const replaceRegex = /(<!--start:script-->)([\w\W]*)(<!--end:script-->)/g;
-const wrappedContent = `<!--start:script-->${content}<!--end:script-->`
+const wrappedContent = `<!--start:script-->\n\n${content}\n\n<!--end:script-->`
 const newReadmeContents = readmeContents.replace(replaceRegex, wrappedContent);
 
 writeFileSync("README.md", newReadmeContents);
