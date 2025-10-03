@@ -1,0 +1,197 @@
+{
+  "state": {
+    "featured": [
+      "tools",
+      "discord-jsx-renderer",
+      "mcman",
+      "events"
+    ],
+    "developing": [
+      "ffmpeg-editor",
+      "poly"
+    ]
+  },
+  "list": [
+    {
+      "id": "events",
+      "emoji": "📆",
+      "name": "Deniz's Events List",
+      "tags": [
+        "website"
+      ],
+      "link": "https://events.deniz.blue",
+      "website": "https://events.deniz.blue",
+      "iconURL": "https://events.deniz.blue/eventsdenizblue.svg"
+    },
+    {
+      "id": "tools",
+      "emoji": "🔧",
+      "name": "Deniz's Tools",
+      "tags": [
+        "website"
+      ],
+      "link": "https://tools.deniz.blue",
+      "website": "https://tools.deniz.blue",
+      "repo": "https://github.com/deniz-blue/tools"
+    },
+    {
+      "id": "protodef-ts",
+      "emoji": "🗂️",
+      "tags": [
+        "library"
+      ],
+      "link": "https://github.com/deniz-blue/protodef-ts",
+      "repo": "https://github.com/deniz-blue/protodef-ts"
+    },
+    {
+      "id": "ffmpeg-editor",
+      "emoji": "🎦",
+      "name": "FFMPEG Editor",
+      "tags": [
+        "website"
+      ],
+      "link": "https://ffmpeg.deniz.blue",
+      "website": "https://ffmpeg.deniz.blue",
+      "repo": "https://github.com/deniz-blue/ffmpeg-editor"
+    },
+    {
+      "id": "discord-jsx-renderer",
+      "emoji": "⚛️",
+      "tags": [
+        "library",
+        "react",
+        "discord"
+      ],
+      "link": "https://djsx.deniz.blue",
+      "repo": "https://github.com/deniz-blue/discordjsx",
+      "website": "https://djsx.deniz.blue",
+      "npm": "https://www.npmjs.com/package/discord-jsx-renderer"
+    },
+    {
+      "id": "mcman",
+      "emoji": "📦",
+      "link": "https://github.com/ParadigmMC/mcman",
+      "website": "https://mcman.deniz.blue",
+      "repo": "https://github.com/ParadigmMC/mcman"
+    },
+    {
+      "id": "react-localization",
+      "emoji": "🌐",
+      "link": "https://github.com/deniz-blue/react-localization",
+      "repo": "https://github.com/deniz-blue/react-localization"
+    },
+    {
+      "id": "poly",
+      "emoji": "⛓️",
+      "link": "https://poly.deniz.blue",
+      "website": "https://poly.deniz.blue",
+      "repo": "https://github.com/deniz-blue/alphamath/tree/main/apps/polycules"
+    },
+    {
+      "id": "ziltek",
+      "emoji": "🔔",
+      "link": "https://github.com/deniz-blue/ZilTek",
+      "repo": "https://github.com/deniz-blue/ZilTek"
+    },
+    {
+      "id": "alphamath",
+      "emoji": "",
+      "link": "https://github.com/deniz-blue/alphamath",
+      "repo": "https://github.com/deniz-blue/alphamath"
+    },
+    {
+      "id": "react-workspace",
+      "emoji": "🗺️",
+      "tags": [
+        "library",
+        "react"
+      ],
+      "link": "https://github.com/deniz-blue/alphamath/tree/main/packages/react-workspace",
+      "repo": "https://github.com/deniz-blue/alphamath/tree/main/packages/react-workspace",
+      "npm": "https://www.npmjs.com/package/@alan404/react-workspace"
+    },
+    {
+      "id": "vec2",
+      "emoji": "🗺️",
+      "tags": [
+        "library",
+        "react"
+      ],
+      "link": "https://github.com/deniz-blue/alphamath/tree/main/packages/vec2",
+      "repo": "https://github.com/deniz-blue/alphamath/tree/main/packages/vec2",
+      "npm": "https://www.npmjs.com/package/@alan404/react-workspace"
+    },
+    {
+      "id": "nbt-ts",
+      "emoji": "📁",
+      "tags": [
+        "library"
+      ],
+      "link": "https://github.com/deniz-blue/nbt-ts",
+      "repo": "https://github.com/deniz-blue/nbt-ts",
+      "npm": "https://www.npmjs.com/package/@alan404/nbt"
+    },
+    {
+      "id": "nbt-ts",
+      "emoji": "📁",
+      "tags": [
+        "library"
+      ],
+      "link": "https://github.com/deniz-blue/nbt-ts",
+      "repo": "https://github.com/deniz-blue/nbt-ts",
+      "npm": "https://www.npmjs.com/package/@alan404/nbt"
+    },
+    {
+      "id": "nbs-js",
+      "emoji": "📁",
+      "tags": [
+        "library"
+      ],
+      "link": "https://github.com/deniz-blue/nbs.js",
+      "repo": "https://github.com/deniz-blue/nbs.js",
+      "npm": "https://www.npmjs.com/package/nbs.js"
+    },
+    {
+      "id": "denvis",
+      "emoji": "📊",
+      "tags": [
+        "application"
+      ],
+      "link": "https://github.com/deniz-blue/denvis",
+      "repo": "https://github.com/deniz-blue/denvis"
+    },
+    {
+      "id": "want-you-gone",
+      "tags": [
+        "website"
+      ],
+      "iconURL": "https://deniz.blue/want-you-gone/apperture.png",
+      "link": "https://deniz.blue/want-you-gone",
+      "repo": "https://github.com/deniz-blue/want-you-gone"
+    },
+    {
+      "id": "carpanga",
+      "tags": ["website"],
+      "emoji": "🔢",
+      "name": "Çarpanga",
+      "link": "https://carpanga.deniz.blue",
+      "repo": "https://github.com/deniz-blue/carpanga",
+      "website": "https://carpanga.deniz.blue"
+    },
+    {
+      "id": "istanbus",
+      "tags": ["website"],
+      "emoji": "🚌",
+      "name": "İstanbus",
+      "repo": "https://github.com/deniz-blue/istanbus"
+    },
+    {
+      "id": "nekotube",
+      "tags": ["website"],
+      "emoji": "⏯️",
+      "link": "https://github.com/deniz-blue/nekotube",
+      "repo": "https://github.com/deniz-blue/nekotube",
+      "website": "https://tube.deniz.blue"
+    }
+  ]
+}
