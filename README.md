@@ -1,7 +1,13 @@
 # [![88x31](https://deniz.blue/assets/88x31v0.png)](https://deniz.blue) [deniz.blue](https://deniz.blue) ✨🌸
 
-<!--start:script-->
-<!--end:script-->
+<!--start:script-->- Featured:
+  - 🔧 [Deniz's Tools](https://tools.deniz.blue)
+  - ⚛️ [discord-jsx-renderer](https://djsx.deniz.blue)
+  - 📦 [mcman](https://github.com/ParadigmMC/mcman)
+  - 📆 [Deniz's Events List](https://events.deniz.blue)
+- Currently working on:
+  - 🎦 [FFMPEG Editor](https://ffmpeg.deniz.blue)
+  - ⛓️ [poly](https://poly.deniz.blue)<!--end:script-->
 
 <img
   align="center"
