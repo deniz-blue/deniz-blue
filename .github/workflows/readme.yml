@@ -10,7 +10,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20.x'
-      - run: npx -y .scripts/update.mts
+      - run: npx -y tsx .scripts/update.mts
       - run: |-
           git diff
           git config --global user.email "deniz@deniz.blue"
