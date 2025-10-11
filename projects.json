@@ -125,17 +125,8 @@
       "id": "nbt-ts",
       "emoji": "📁",
       "tags": [
-        "library"
-      ],
-      "link": "https://github.com/deniz-blue/nbt-ts",
-      "repo": "https://github.com/deniz-blue/nbt-ts",
-      "npm": "https://www.npmjs.com/package/@alan404/nbt"
-    },
-    {
-      "id": "nbt-ts",
-      "emoji": "📁",
-      "tags": [
-        "library"
+        "library",
+        "archived"
       ],
       "link": "https://github.com/deniz-blue/nbt-ts",
       "repo": "https://github.com/deniz-blue/nbt-ts",
@@ -145,7 +136,8 @@
       "id": "nbs-js",
       "emoji": "📁",
       "tags": [
-        "library"
+        "library",
+        "archived"
       ],
       "link": "https://github.com/deniz-blue/nbs.js",
       "repo": "https://github.com/deniz-blue/nbs.js",
@@ -155,7 +147,8 @@
       "id": "denvis",
       "emoji": "📊",
       "tags": [
-        "application"
+        "application",
+        "archived"
       ],
       "link": "https://github.com/deniz-blue/denvis",
       "repo": "https://github.com/deniz-blue/denvis"
@@ -163,7 +156,8 @@
     {
       "id": "want-you-gone",
       "tags": [
-        "website"
+        "website",
+        "archived"
       ],
       "iconURL": "https://deniz.blue/want-you-gone/apperture.png",
       "link": "https://deniz.blue/want-you-gone",
@@ -171,7 +165,10 @@
     },
     {
       "id": "carpanga",
-      "tags": ["website"],
+      "tags": [
+        "website",
+        "game"
+      ],
       "emoji": "🔢",
       "name": "Çarpanga",
       "link": "https://carpanga.deniz.blue",
@@ -180,14 +177,20 @@
     },
     {
       "id": "istanbus",
-      "tags": ["website"],
+      "tags": [
+        "website",
+        "archived"
+      ],
       "emoji": "🚌",
       "name": "İstanbus",
       "repo": "https://github.com/deniz-blue/istanbus"
     },
     {
       "id": "nekotube",
-      "tags": ["website"],
+      "tags": [
+        "website",
+        "archived"
+      ],
       "emoji": "⏯️",
       "link": "https://github.com/deniz-blue/nekotube",
       "repo": "https://github.com/deniz-blue/nekotube",
