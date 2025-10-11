@@ -13,6 +13,15 @@
   },
   "list": [
     {
+      "id": "md-emojis",
+      "name": "Markdown Emojis",
+      "emoji": "🖼️",
+      "link": "https://github.com/deniz-blue/md-emojis",
+      "repo": "https://github.com/deniz-blue/md-emojis",
+      "tags": [],
+      "desc": "Custom SVG markdown emojis"
+    },
+    {
       "id": "events",
       "emoji": "📆",
       "name": "Deniz's Events List",
@@ -21,7 +30,8 @@
       ],
       "link": "https://events.deniz.blue",
       "website": "https://events.deniz.blue",
-      "iconURL": "https://events.deniz.blue/eventsdenizblue.svg"
+      "iconURL": "https://events.deniz.blue/eventsdenizblue.svg",
+      "desc": "A website for cosplay/other events (outdated)"
     },
     {
       "id": "tools",
@@ -32,7 +42,9 @@
       ],
       "link": "https://tools.deniz.blue",
       "website": "https://tools.deniz.blue",
-      "repo": "https://github.com/deniz-blue/tools"
+      "repo": "https://github.com/deniz-blue/tools",
+      "iconURL": "https://tools.deniz.blue/favicon.svg",
+      "desc": "Useful tools"
     },
     {
       "id": "protodef-ts",
@@ -41,18 +53,21 @@
         "library"
       ],
       "link": "https://github.com/deniz-blue/protodef-ts",
-      "repo": "https://github.com/deniz-blue/protodef-ts"
+      "repo": "https://github.com/deniz-blue/protodef-ts",
+      "desc": "A typescript library for ProtoDef"
     },
     {
       "id": "ffmpeg-editor",
       "emoji": "🎦",
       "name": "FFMPEG Editor",
       "tags": [
-        "website"
+        "website",
+        "status:wip"
       ],
       "link": "https://ffmpeg.deniz.blue",
       "website": "https://ffmpeg.deniz.blue",
-      "repo": "https://github.com/deniz-blue/ffmpeg-editor"
+      "repo": "https://github.com/deniz-blue/ffmpeg-editor",
+      "desc": "Create, view, edit and analyze FFMPEG commands (WIP)"
     },
     {
       "id": "discord-jsx-renderer",
@@ -62,6 +77,7 @@
         "react",
         "discord"
       ],
+      "desc": "Render react components for Discord interactions (Components V2 supported!)",
       "link": "https://djsx.deniz.blue",
       "repo": "https://github.com/deniz-blue/discordjsx",
       "website": "https://djsx.deniz.blue",
@@ -72,36 +88,59 @@
       "emoji": "📦",
       "link": "https://github.com/ParadigmMC/mcman",
       "website": "https://mcman.deniz.blue",
-      "repo": "https://github.com/ParadigmMC/mcman"
+      "repo": "https://github.com/ParadigmMC/mcman",
+      "desc": "Powerful Minecraft Server Manager CLI. Easily install jars (server, plugins & mods) and write config files. Docker and git support included"
     },
     {
       "id": "react-localization",
       "emoji": "🌐",
+      "tags": [
+        "library",
+        "react"
+      ],
       "link": "https://github.com/deniz-blue/react-localization",
-      "repo": "https://github.com/deniz-blue/react-localization"
+      "repo": "https://github.com/deniz-blue/react-localization",
+      "desc": "Super simple inline React i18n library"
     },
     {
       "id": "poly",
       "emoji": "⛓️",
+      "tags": [
+        "website",
+        "react"
+      ],
       "link": "https://poly.deniz.blue",
       "website": "https://poly.deniz.blue",
-      "repo": "https://github.com/deniz-blue/alphamath/tree/main/apps/polycules"
+      "repo": "https://github.com/deniz-blue/alphamath/tree/main/apps/polycules",
+      "desc": "A web-based graph editor for non-monogamous relationships of any kinds with support for plurality."
     },
     {
       "id": "ziltek",
+      "name": "ZilTek",
       "emoji": "🔔",
+      "desc": "Open source school bell app",
+      "tags": [
+        "application",
+        "website"
+      ],
       "link": "https://github.com/deniz-blue/ZilTek",
       "repo": "https://github.com/deniz-blue/ZilTek"
     },
     {
       "id": "alphamath",
       "emoji": "",
+      "desc": "Mathematics sandbox web app",
+      "tags": [
+        "website",
+        "react"
+      ],
       "link": "https://github.com/deniz-blue/alphamath",
       "repo": "https://github.com/deniz-blue/alphamath"
     },
     {
       "id": "react-workspace",
       "emoji": "🗺️",
+      "desc": "Infinitely pannable, accessible map-like workspace for React",
       "tags": [
         "library",
         "react"
@@ -113,6 +152,7 @@
     {
       "id": "vec2",
       "emoji": "🗺️",
+      "desc": "Typescript library for Vec2 type and math functions",
       "tags": [
         "library",
         "react"
@@ -124,6 +164,7 @@
     {
       "id": "nbt-ts",
       "emoji": "📁",
+      "desc": "NBT serialize & deserialize library for TypeScript",
       "tags": [
         "library",
         "archived"
@@ -135,6 +176,7 @@
     {
       "id": "nbs-js",
       "emoji": "📁",
+      "desc": "Parse NBS (Note Block Song / Note Block Studio) files",
       "tags": [
         "library",
         "archived"
@@ -146,6 +188,7 @@
     {
       "id": "denvis",
       "emoji": "📊",
+      "desc": "Lightweight audio visualizer overlay for windows",
       "tags": [
         "application",
         "archived"
@@ -155,6 +198,7 @@
     },
     {
       "id": "want-you-gone",
+      "desc": "Portal 2 ending credits recreated with bad HTML",
       "tags": [
         "website",
         "archived"
@@ -171,6 +215,7 @@
       ],
       "emoji": "🔢",
       "name": "Çarpanga",
+      "desc": "A 1v1 basic math strategy game",
       "link": "https://carpanga.deniz.blue",
       "repo": "https://github.com/deniz-blue/carpanga",
       "website": "https://carpanga.deniz.blue"
@@ -183,6 +228,7 @@
       ],
       "emoji": "🚌",
       "name": "İstanbus",
+      "desc": "Alternative website for Istanbul bus information (IETT)",
       "repo": "https://github.com/deniz-blue/istanbus"
     },
     {
@@ -192,6 +238,8 @@
         "archived"
       ],
       "emoji": "⏯️",
+      "name": "NekoTube",
+      "desc": "Alternative clientside YouTube frontend",
       "link": "https://github.com/deniz-blue/nekotube",
       "repo": "https://github.com/deniz-blue/nekotube",
       "website": "https://tube.deniz.blue"
