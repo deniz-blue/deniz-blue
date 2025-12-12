@@ -3,13 +3,13 @@
 <!--start:script-->
 
 - Featured:
-  - 🔧 [Deniz's Tools](https://tools.deniz.blue)
-  - ⚛️ [discord-jsx-renderer](https://djsx.deniz.blue)
   - 📦 [mcman](https://github.com/ParadigmMC/mcman)
+  - ⚛️ [discord-jsx-renderer](https://djsx.deniz.blue)
+  - 💞 [Polycules](https://poly.deniz.blue)
+  - 🔧 [Deniz's Tools](https://tools.deniz.blue)
   - 📆 [Deniz's Events List](https://events.deniz.blue)
 - Currently working on:
   - 🎦 [FFMPEG Editor](https://ffmpeg.deniz.blue)
-  - ⛓️ [poly](https://poly.deniz.blue)
 
 <!--end:script-->
 
