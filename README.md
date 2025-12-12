@@ -13,6 +13,7 @@
 
 <!--end:script-->
 
+<!--
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=deniz-blue&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true&hide=stars,issues,contribs&show=prs_merged"
@@ -21,7 +22,7 @@
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=deniz-blue&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true&hide=commits,prs"
 />
-
+-->
 
 [![Discord](https://img.shields.io/discord/1197520507617153064?logo=discord)](https://deniz.blue/discord-invite?id=1197520507617153064)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/deniz-blue?style=flat&logo=github)](https://github.com/sponsors/deniz-blue/)
