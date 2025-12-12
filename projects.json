@@ -1,14 +1,14 @@
 {
   "state": {
     "featured": [
-      "tools",
-      "discord-jsx-renderer",
       "mcman",
+      "discord-jsx-renderer",
+      "poly",
+      "tools",
       "events"
     ],
     "developing": [
-      "ffmpeg-editor",
-      "poly"
+      "ffmpeg-editor"
     ]
   },
   "list": [
@@ -104,7 +104,8 @@
     },
     {
       "id": "poly",
-      "emoji": "⛓️",
+      "name": "Polycules",
+      "emoji": "💞",
       "tags": [
         "website",
         "react"
@@ -112,7 +113,7 @@
       "link": "https://poly.deniz.blue",
       "website": "https://poly.deniz.blue",
       "repo": "https://github.com/deniz-blue/alphamath/tree/main/apps/polycules",
-      "desc": "A web-based graph editor for non-monogamous relationships of any kinds with support for plurality."
+      "desc": "A web-based graph editor for non-monogamous relationships that can include plurality."
     },
     {
       "id": "ziltek",
@@ -128,7 +129,7 @@
     },
     {
       "id": "alphamath",
-      "emoji": "",
+      "emoji": "🗺️",
       "desc": "Mathematics sandbox web app",
       "tags": [
         "website",
