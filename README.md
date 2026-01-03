@@ -7,9 +7,9 @@
   - ⚛️ [discord-jsx-renderer](https://djsx.deniz.blue)
   - 💞 [Polycules](https://poly.deniz.blue)
   - 🔧 [Deniz's Tools](https://tools.deniz.blue)
-  - 📆 [Deniz's Events List](https://events.deniz.blue)
+  - 📆 [[old] events.deniz.blue](https://events.deniz.blue)
 - Currently working on:
-  - 🎦 [FFMPEG Editor](https://ffmpeg.deniz.blue)
+  - 🗓️ [@evnt](https://github.com/deniz-blue/events-format)
 
 <!--end:script-->
 
