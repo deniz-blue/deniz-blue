@@ -8,7 +8,7 @@
       "events"
     ],
     "developing": [
-      "ffmpeg-editor"
+      "evnt"
     ]
   },
   "list": [
@@ -22,9 +22,18 @@
       "desc": "Custom SVG markdown emojis"
     },
     {
+      "id": "evnt",
+      "emoji": "🗓️",
+      "name": "@evnt",
+      "desc": "Decentralized event information system",
+      "tags": ["website","library"],
+      "link": "https://github.com/deniz-blue/events-format",
+      "website": "https://event.nya.pub"
+    },
+    {
       "id": "events",
       "emoji": "📆",
-      "name": "Deniz's Events List",
+      "name": "[old] events.deniz.blue",
       "tags": [
         "website"
       ],
