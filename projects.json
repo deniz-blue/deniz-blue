@@ -14,13 +14,14 @@
 		{
 			"id": "evnt",
 			"emoji": "🗓️",
-			"name": "@evnt",
-			"desc": "Decentralized event information system",
+			"name": "Evnt",
+			"desc": "A standardized, open-source data format for representing and sharing event data across different applications",
 			"tags": [
 				"website",
 				"library"
 			],
-			"link": "https://github.com/deniz-blue/events-format",
+			"iconURL": "https://github.com/deniz-blue/md-emojis/raw/refs/heads/main/emojis/denizblue/evnt.svg",
+			"link": "https://github.com/deniz-blue/evnt",
 			"website": "https://event.nya.pub"
 		},
 		{
@@ -52,6 +53,7 @@
 				"react",
 				"discord"
 			],
+			"iconURL": "https://github.com/deniz-blue/md-emojis/raw/refs/heads/main/emojis/denizblue/discordjsx.svg",
 			"desc": "Render react components for Discord interactions (Components V2 supported!)",
 			"link": "https://djsx.deniz.blue",
 			"repo": "https://github.com/deniz-blue/discordjsx",
@@ -83,9 +85,10 @@
 		{
 			"id": "events",
 			"emoji": "📆",
-			"name": "[old] events.deniz.blue",
+			"name": "events.deniz.blue",
 			"tags": [
-				"website"
+				"website",
+				"archived"
 			],
 			"link": "https://events.deniz.blue",
 			"website": "https://events.deniz.blue",
