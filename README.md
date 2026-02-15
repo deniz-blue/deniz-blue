@@ -8,7 +8,7 @@
   - 💞 [Polycules](https://poly.deniz.blue)
   - 🔧 [Deniz's Tools](https://tools.deniz.blue)
 - Currently working on:
-  - 🗓️ [@evnt](https://github.com/deniz-blue/events-format)
+  - 🗓️ [Evnt](https://github.com/deniz-blue/evnt)
 
 <!--end:script-->
 
