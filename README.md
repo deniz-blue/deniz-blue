@@ -5,10 +5,11 @@
 - Featured:
   - 📦 [mcman](https://github.com/ParadigmMC/mcman)
   - ⚛️ [discord-jsx-renderer](https://djsx.deniz.blue)
-  - 💞 [Polycules](https://poly.deniz.blue)
+  - 💞 [poly.deniz.blue](https://poly.deniz.blue)
   - 🔧 [Deniz's Tools](https://tools.deniz.blue)
 - Currently working on:
-  - 🗓️ [Evnt](https://github.com/deniz-blue/evnt)
+  - 🗓️ [Open Evnt](https://evnt.directory)
+  - 🗓️ [Vantage Events Viewer](https://vantage.deniz.blue)
 
 <!--end:script-->
 
