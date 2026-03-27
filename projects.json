@@ -7,22 +7,35 @@
 			"tools"
 		],
 		"developing": [
-			"evnt"
+			"evnt",
+			"vantage"
 		]
 	},
 	"list": [
 		{
 			"id": "evnt",
 			"emoji": "🗓️",
-			"name": "Evnt",
+			"name": "Open Evnt",
 			"desc": "A standardized, open-source data format for representing and sharing event data across different applications",
 			"tags": [
 				"website",
 				"library"
 			],
 			"iconURL": "https://github.com/deniz-blue/md-emojis/raw/refs/heads/main/emojis/denizblue/evnt.svg",
-			"link": "https://github.com/deniz-blue/evnt",
-			"website": "https://event.nya.pub"
+			"link": "https://evnt.directory",
+			"website": "https://evnt.directory"
+		},
+		{
+			"id": "vantage",
+			"emoji": "🗓️",
+			"name": "Vantage Events Viewer",
+			"desc": "Web app for tracking events from multiple sources in one place, built with the Evnt format",
+			"tags": [
+				"website"
+			],
+			"iconURL": "https://github.com/deniz-blue/md-emojis/raw/refs/heads/main/emojis/denizblue/evnt.svg",
+			"link": "https://vantage.deniz.blue",
+			"website": "https://vantage.deniz.blue"
 		},
 		{
 			"id": "tools",
@@ -36,6 +49,18 @@
 			"repo": "https://github.com/deniz-blue/tools",
 			"iconURL": "https://tools.deniz.blue/favicon.svg",
 			"desc": "Useful tools"
+		},
+		{
+			"id": "vite-plugins",
+			"emoji": "⚡",
+			"name": "@deniz-blue/vite-plugins",
+			"tags": [
+				"library"
+			],
+			"link": "https://github.com/deniz-blue/vite-plugins",
+			"repo": "https://github.com/deniz-blue/vite-plugins",
+			"desc": "A collection of Vite plugins for my own use: SimpleSSG, VirtualModule and ATProtoOAuth plugins",
+			"npm": "https://npmx.dev/package/@deniz-blue/vite-plugins"
 		},
 		{
 			"id": "mcman",
@@ -58,7 +83,7 @@
 			"link": "https://djsx.deniz.blue",
 			"repo": "https://github.com/deniz-blue/discordjsx",
 			"website": "https://djsx.deniz.blue",
-			"npm": "https://www.npmjs.com/package/discord-jsx-renderer"
+			"npm": "https://npmx.dev/package/discord-jsx-renderer"
 		},
 		{
 			"id": "poly",
@@ -164,7 +189,7 @@
 			],
 			"link": "https://github.com/deniz-blue/alphamath/tree/main/packages/react-workspace",
 			"repo": "https://github.com/deniz-blue/alphamath/tree/main/packages/react-workspace",
-			"npm": "https://www.npmjs.com/package/@alan404/react-workspace"
+			"npm": "https://npmx.dev/package/@alan404/react-workspace"
 		},
 		{
 			"id": "vec2",
@@ -176,7 +201,7 @@
 			],
 			"link": "https://github.com/deniz-blue/alphamath/tree/main/packages/vec2",
 			"repo": "https://github.com/deniz-blue/alphamath/tree/main/packages/vec2",
-			"npm": "https://www.npmjs.com/package/@alan404/react-workspace"
+			"npm": "https://npmx.dev/package/@alan404/react-workspace"
 		},
 		{
 			"id": "nbt-ts",
@@ -188,7 +213,7 @@
 			],
 			"link": "https://github.com/deniz-blue/nbt-ts",
 			"repo": "https://github.com/deniz-blue/nbt-ts",
-			"npm": "https://www.npmjs.com/package/@alan404/nbt"
+			"npm": "https://npmx.dev/package/@alan404/nbt"
 		},
 		{
 			"id": "nbs-js",
@@ -200,7 +225,7 @@
 			],
 			"link": "https://github.com/deniz-blue/nbs.js",
 			"repo": "https://github.com/deniz-blue/nbs.js",
-			"npm": "https://www.npmjs.com/package/nbs.js"
+			"npm": "https://npmx.dev/package/nbs.js"
 		},
 		{
 			"id": "denvis",
