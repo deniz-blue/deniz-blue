@@ -87,7 +87,7 @@
 		},
 		{
 			"id": "poly",
-			"name": "Polycules",
+			"name": "poly.deniz.blue",
 			"emoji": "💞",
 			"tags": [
 				"website",
@@ -96,7 +96,7 @@
 			"link": "https://poly.deniz.blue",
 			"website": "https://poly.deniz.blue",
 			"repo": "https://github.com/deniz-blue/alphamath/tree/main/apps/polycules",
-			"desc": "A web-based graph editor for non-monogamous relationships that can include plurality."
+			"desc": "Atmosphere (AT Protocol, like BlueSky) polycule graphing tool"
 		},
 		{
 			"id": "md-emojis",
