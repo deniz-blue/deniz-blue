@@ -3,13 +3,13 @@
 <!--start:script-->
 
 - Featured:
-  - 📦 [mcman](https://github.com/ParadigmMC/mcman)
   - ⚛️ [discord-jsx-renderer](https://djsx.deniz.blue)
-  - 💞 [poly.deniz.blue](https://poly.deniz.blue)
-  - 🔧 [Deniz's Tools](https://tools.deniz.blue)
+  - 🗂️ [protodef-next](https://github.com/deniz-blue/protodef-next)
+  - 📦 [mcman](https://github.com/ParadigmMC/mcman)
+  - ⚡ [@deniz-blue/vite-plugins](https://github.com/deniz-blue/vite-plugins)
 - Currently working on:
   - 🗓️ [Open Evnt](https://evnt.directory)
-  - 🗓️ [Vantage Events Viewer](https://vantage.deniz.blue)
+  - 🗓️ [Vantage](https://vantage.deniz.blue)
 
 <!--end:script-->
 
