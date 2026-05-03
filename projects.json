@@ -82,7 +82,8 @@
 			"link": "https://djsx.deniz.blue",
 			"repo": "https://github.com/deniz-blue/discordjsx",
 			"website": "https://djsx.deniz.blue",
-			"npm": "https://npmx.dev/package/discord-jsx-renderer"
+			"npm": "https://npmx.dev/package/discord-jsx-renderer",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/discordjsx.png"
 		},
 		{
 			"id": "tools",
@@ -107,7 +108,8 @@
 			"link": "https://poly.deniz.blue",
 			"website": "https://poly.deniz.blue",
 			"repo": "https://github.com/deniz-blue/alphamath/tree/main/apps/polycules",
-			"desc": "Atmosphere polycule graphing tool"
+			"desc": "Atmosphere polycule graphing tool",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/polycules.png"
 		},
 		{
 			"id": "md-emojis",
@@ -129,7 +131,8 @@
 			"link": "https://events.deniz.blue",
 			"website": "https://events.deniz.blue",
 			"iconURL": "https://events.deniz.blue/eventsdenizblue.svg",
-			"desc": "A website for cosplay/other events (outdated)"
+			"desc": "A website for cosplay/other events (outdated)",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/events.png"
 		},
 		{
 			"id": "react-localization",
@@ -166,7 +169,8 @@
 				"archived"
 			],
 			"link": "https://github.com/deniz-blue/ZilTek",
-			"repo": "https://github.com/deniz-blue/ZilTek"
+			"repo": "https://github.com/deniz-blue/ZilTek",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/ziltek.png"
 		},
 		{
 			"id": "alphamath",
@@ -190,7 +194,8 @@
 			],
 			"link": "https://github.com/deniz-blue/alphamath/tree/main/packages/react-workspace",
 			"repo": "https://github.com/deniz-blue/alphamath/tree/main/packages/react-workspace",
-			"npm": "https://npmx.dev/package/@alan404/react-workspace"
+			"npm": "https://npmx.dev/package/@alan404/react-workspace",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/workspace.png"
 		},
 		{
 			"id": "vec2",
@@ -202,7 +207,7 @@
 			],
 			"link": "https://github.com/deniz-blue/alphamath/tree/main/packages/vec2",
 			"repo": "https://github.com/deniz-blue/alphamath/tree/main/packages/vec2",
-			"npm": "https://npmx.dev/package/@alan404/react-workspace"
+			"npm": "https://npmx.dev/package/@alan404/vec2"
 		},
 		{
 			"id": "nbt-ts",
@@ -214,7 +219,8 @@
 			],
 			"link": "https://github.com/deniz-blue/nbt-ts",
 			"repo": "https://github.com/deniz-blue/nbt-ts",
-			"npm": "https://npmx.dev/package/@alan404/nbt"
+			"npm": "https://npmx.dev/package/@alan404/nbt",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/nbt-ts.png"
 		},
 		{
 			"id": "nbs-js",
@@ -226,7 +232,8 @@
 			],
 			"link": "https://github.com/deniz-blue/nbs.js",
 			"repo": "https://github.com/deniz-blue/nbs.js",
-			"npm": "https://npmx.dev/package/nbs.js"
+			"npm": "https://npmx.dev/package/nbs.js",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/nbs-js.png"
 		},
 		{
 			"id": "denvis",
@@ -237,7 +244,8 @@
 				"archived"
 			],
 			"link": "https://github.com/deniz-blue/denvis",
-			"repo": "https://github.com/deniz-blue/denvis"
+			"repo": "https://github.com/deniz-blue/denvis",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/denvis.png"
 		},
 		{
 			"id": "want-you-gone",
@@ -248,7 +256,8 @@
 			],
 			"iconURL": "https://deniz.blue/want-you-gone/apperture.png",
 			"link": "https://deniz.blue/want-you-gone",
-			"repo": "https://github.com/deniz-blue/want-you-gone"
+			"repo": "https://github.com/deniz-blue/want-you-gone",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/wantyougone.png"
 		},
 		{
 			"id": "carpanga",
@@ -261,7 +270,8 @@
 			"desc": "A 1v1 math strategy game",
 			"link": "https://carpanga.deniz.blue",
 			"repo": "https://github.com/deniz-blue/carpanga",
-			"website": "https://carpanga.deniz.blue"
+			"website": "https://carpanga.deniz.blue",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/carpanga.png"
 		},
 		{
 			"id": "istanbus",
@@ -285,7 +295,8 @@
 			"desc": "Alternative clientside YouTube frontend",
 			"link": "https://github.com/deniz-blue/nekotube",
 			"repo": "https://github.com/deniz-blue/nekotube",
-			"website": "https://tube.deniz.blue"
+			"website": "https://tube.deniz.blue",
+			"banner": "https://raw.githubusercontent.com/deniz-blue/deniz-blue/main/assets/nekotube.png"
 		}
 	]
 }
