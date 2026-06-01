@@ -6,10 +6,11 @@
   - ⚛️ [discord-jsx-renderer](https://djsx.deniz.blue)
   - 🗂️ [protodef-next](https://github.com/deniz-blue/protodef-next)
   - 📦 [mcman](https://github.com/ParadigmMC/mcman)
-  - ⚡ [@deniz-blue/vite-plugins](https://github.com/deniz-blue/vite-plugins)
 - Currently working on:
   - 🗓️ [Open Evnt](https://evnt.directory)
   - 🗓️ [Vantage](https://vantage.deniz.blue)
+  - 🪟 [Hazel WM](https://github.com/deniz-blue/hazel-wm)
+  - 👗 [cos](https://cos.tsx.lt)
 
 <!--end:script-->
 
