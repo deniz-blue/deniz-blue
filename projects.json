@@ -3,12 +3,13 @@
 		"featured": [
 			"discord-jsx-renderer",
 			"protodef-next",
-			"mcman",
-			"vite-plugins"
+			"mcman"
 		],
 		"developing": [
 			"evnt",
-			"vantage"
+			"vantage",
+			"hazel",
+			"cos"
 		]
 	},
 	"list": [
@@ -37,6 +38,34 @@
 			"link": "https://vantage.deniz.blue",
 			"website": "https://vantage.deniz.blue",
 			"repo": "https://github.com/deniz-blue/vantage"
+		},
+		{
+			"id": "cos",
+			"emoji": "👗",
+			"desc": "Share contacts with QR codes, made for cosplay events",
+			"tags": [
+				"website",
+				"application"
+			],
+			"iconURL": "https://github.com/deniz-blue/cos/raw/refs/heads/main/assets/cos.svg",
+			"repo": "https://github.com/deniz-blue/cos",
+			"website": "https://cos.tsx.lt",
+			"link": "https://cos.tsx.lt"
+		},
+		{
+			"id": "hazel",
+			"emoji": "🪟",
+			"name": "Hazel WM",
+			"desc": "Wayland compositor with a highly scriptable Lua system",
+			"repo": "https://github.com/deniz-blue/hazel-wm",
+			"link": "https://github.com/deniz-blue/hazel-wm"
+		},
+		{
+			"id": "eventswiki",
+			"emoji": "📚",
+			"desc": "A wiki for events",
+			"link": "https://eventswiki.deniz.blue",
+			"website": "https://eventswiki.deniz.blue"
 		},
 		{
 			"id": "protodef-next",
